@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hello World
+title: Test markdown
 subtitle: Each post also has a subtitle
-categories: Hello World
+categories: markdown
 tags: [test]
 ---
 
